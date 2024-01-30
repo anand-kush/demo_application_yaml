@@ -1,0 +1,6 @@
+app:
+  messages:
+     invalidlogin: Please enter valid credential
+     registersuc: Register Successfully
+     registerfail: Registration Failed
+     failedupdt: Password Update Failed
